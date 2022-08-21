@@ -1,4 +1,7 @@
 # Typing-Marathon
 Typing Speed Test Game
 
-Technology Used-> Html, Css, Javascript
+Used Tools
+-----------------------
+Html, Css, Javascript
+-----------------------
